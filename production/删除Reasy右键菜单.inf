@@ -1,0 +1,10 @@
+[Version]
+Signature="$Windows NT$"
+
+[DefaultInstall]
+DELREG=Reasy
+
+[Reasy]
+hkcr,"Directory\\shell\\Reasy Release"
+hkcr,"Folder\shell\\Reasy Release"
+

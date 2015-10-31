@@ -1,0 +1,11 @@
+[Version]
+Signature="$Windows NT$"
+
+[DefaultInstall]
+AddReg=Reasy
+
+[Reasy]
+;hkcr,"*\\shell\\Reasy Release\\command",,,"""%1%\Sublime_Text.exe"" ""%%1"" %%*"
+;hkcr,"Directory\\shell\\Reasy Release\\command",,,"""C:\\windows\\System32\\cmd.exe"" ""/k title Reasy Release&&cd %%1&&reasy -r %%1 --contextmenu"""
+
+hkcr,"Folder\\shell\\Reasy Release\\command",,,"""C:\\windows\\System32\\cmd.exe"" ""/k title Reasy release&&cd %%1&&reasy -r %%1 --contextmenu"""

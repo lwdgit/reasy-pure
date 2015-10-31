@@ -34,10 +34,6 @@
     "fis3-hook-amd": ">=0.1.0",
     "fis3-parser-reactjs": ">=1.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wEasyTeam/reasy.git"
-  },
   "keywords": [
     "reasy",
     "reasy-pure"

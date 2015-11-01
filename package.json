@@ -21,7 +21,7 @@
   "dependencies": {
     "fis3": ">=3.0.6",
     "fis3-hook-relative": ">=1.0.3",
-    "reasy-parser-less": ">=0.0.1",
+    "fis-parser-less": ">=0.0.1",
     "fis3-postpackager-loader": ">=1.2.1",
     "fis3-packager-map": ">=1.0.4",
     "fis-postprocessor-autoprefixer": ">=0.0.5",
